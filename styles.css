@@ -1,0 +1,227 @@
+body{
+    font-family: 'Raleway', sans-serif !important;
+    color: #fff !important;
+    text-align: center !important;
+    display: block !important;
+    margin: 0;
+    background-color: rgb(17, 17, 65) !important;
+}
+
+header{
+padding: 1.5% 3%%; 
+background-color: rgb(17, 17, 65);
+display: block; 
+}
+
+.brand{
+    display: inline-block;
+    padding-top: 1.5% !important;
+    padding-left: 1.5%;
+}
+
+
+.navbar{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.navbar-toggler{
+    color: #fff;
+}
+
+.btn{
+    
+    width: 25%;
+    border-radius: 20px !important;
+    background-color: hsl(198, 60%, 50%) !important;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    
+}
+
+.btn:hover{
+    background-color: hsl(176, 68%, 64%) !important;
+    color: black !important;
+}
+
+
+.intro-img{
+    
+    width: 60%;
+    position: relative;
+    margin-left: 185px;
+    padding: 5% !important;
+}
+
+#intro-img{
+    display: block;
+}
+
+.introduction{
+    padding-top: 3%;
+    line-height: 1.5rem;
+    
+}
+
+h3{
+    font-family: 'Squada One', cursive;
+    font-weight: bolder !important;
+}
+
+p{
+    font-family: 'Squada One', cursive !important;
+    font-weight: 500;
+    color: rgb(214, 210, 210);
+}
+
+h2{
+    padding-top: 7% !important;
+    width: 50%;
+    margin: 0 auto;
+    
+}
+
+.p{ 
+    position: relative;
+    padding-top: 2%;
+    width: 50%;
+    margin: 0 auto;
+    
+}
+
+#features{
+    background-color: rgb(17, 17, 65);
+    margin-top: 3%;
+}
+
+.feature-box{
+    padding: 3.5% 15%;
+}
+
+.heading-img{
+    margin: 1%; 
+    
+}
+
+.heading-icons{
+    width: 15%;
+    margin: 0 auto;
+    
+}
+
+.heading-info{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto !important;
+}
+
+.extra-information-info{
+    padding-top: 7%;
+    padding-bottom: 0;
+    
+}
+
+.part-mix{
+    margin-top: 4%;
+}
+
+.extra-information-info{
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 2%;
+}
+
+h4{
+    padding: 7% 10% 0 10%;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.testimonials-image{
+    border-radius: 100%;
+    width: 15%;
+    margin: 0 auto;
+    padding-bottom: 3%;
+}
+
+.carousel-item{
+    margin-top: 5%;
+    margin-bottom: 0;
+}
+
+.quotes{
+    padding-top: 5%;
+    width: 2%;
+    display: inline-block;
+    margin-right: 75%;
+    margin-top: 10%;
+
+}
+
+#testimonials{
+    margin-bottom: 5%;
+}
+
+em{
+    padding: 2%;
+    color: rgb(214, 210, 210);
+}
+
+#ending{
+    
+    padding: 3% 0 1% 0;
+    background-color: rgb(49, 25, 71);
+    border: 2px solid;
+    border-color: rgb(77, 27, 124);
+    border-radius: 20px;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.end{
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+
+.input-box{
+    
+    display: block;
+    border-radius: 20px;
+    padding: 10px;
+    border: 1px solid #999;
+    outline: none;
+    background-color: rgb(49, 25, 71);
+    color: #fff;
+}
+
+.email{
+    
+    margin: 2% auto;
+}
+
+.password{
+    margin-bottom: 2% !important;
+    margin: 0 auto;
+}
+
+.submit-btn{
+    margin-top: 0%;
+    margin-bottom: 1%;
+    width: 15%;
+}
+
+#footers{
+    margin-top: 3% !important;
+    padding: 7% 10% !important;
+}
+
+.fab{
+    padding-right: 10px !important;
+}
+
+.fab:hover{
+    color: hsl(176, 68%, 64%);
+    
+}
